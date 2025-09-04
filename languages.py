@@ -1,0 +1,20 @@
+LANGUAGE_CODES = {
+    'af': 'Afrikaans',
+    'sq': 'Albanian',
+    'am': 'Amharic',
+    'ar': 'Arabic',
+    'hy': 'Armenian',
+    'az': 'Azerbaijani',
+    'eu': 'Basque',
+    'be': 'Belarusian',
+    'bn': 'Bengali',
+    'en': 'English',
+    'fr': 'French',
+    'de': 'German',
+    'hi': 'Hindi',
+    'kn': 'Kannada',
+    'ta': 'Tamil',
+    'te': 'Telugu',
+    'ur': 'Urdu',
+    # Add more as needed
+}
